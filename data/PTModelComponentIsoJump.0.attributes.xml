@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>4244</string>
+                <key>className</key>
+                <string>PTModelComponentIsoJump</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Ghost Jump</string>
+                </dict>
+                <key>Jump Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,50.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Jump Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Jump Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Duration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Count</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Event</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEventNone</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>4245</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array/>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>_senderId</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5553</string>
+                <key>className</key>
+                <string>PTModelComponentIsoJump</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Ghost Jump</string>
+                </dict>
+                <key>Jump Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,50.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Jump Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,100.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Jump Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Duration</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Jump Count</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Event</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEventNone</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>5554</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array/>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>_senderId</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
